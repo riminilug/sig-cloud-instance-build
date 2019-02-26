@@ -6,7 +6,8 @@ This git repo contains kickstart files that define how the various CentOS Cloud 
 CentOS-<release ver>-<arch>-<target>-<tag>.ks
 ```
 
-eg:
+eg:__
+
 
 ```
 CentOS-6-x86_64-OpenStack-6.5_20140119.ks
